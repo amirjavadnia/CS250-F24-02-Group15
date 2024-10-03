@@ -1,5 +1,3 @@
 # README.md
 
-Jennifer Zhu
-Amir Javadnia
-Julian Stinnett
+Jennifer Zhu, Amir Javadnia, Julian Stinnett
