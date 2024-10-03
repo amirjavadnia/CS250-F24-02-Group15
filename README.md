@@ -2,3 +2,4 @@
 
 Jennifer Zhu
 Amir Javadnia
+Julian Stinnett
